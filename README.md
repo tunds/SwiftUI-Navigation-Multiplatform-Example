@@ -1,4 +1,4 @@
-# SwiftUI-Navigation-Multiplatform-Example
+# (Foods App) Multiplatform SwiftUI Navigation Sample App
 
 ## Introduction
 

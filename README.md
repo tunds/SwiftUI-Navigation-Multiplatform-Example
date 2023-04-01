@@ -2,7 +2,7 @@
 
 ## Introduction
 
-This repo a 100% SwiftUI app showcasing examples of navigation, Multiplatform support &amp; deep linking using the new NavigationStack &amp; NavigationSplitView API's.
+This repo a 100% SwiftUI app showcasing examples of navigation, Multiplatform support &amp; deep linking using the new NavigationStack &amp; NavigationSplitView API's based of my [course](https://youtube.com/playlist?list=PLvUWi5tdh92wWS3F-AVsCJHkhBlrkBp6f) that that showcases everything you need to know about handling navigation in SwiftUI apps.
 
 ## Requirements
 

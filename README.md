@@ -86,3 +86,7 @@ If you're interested in following me you can find me on:
 * [Website](https://tunds.dev)
 
 I also have a [Kofi](https://ko-fi.com/tundsdev) where you can donate and buy me a coffee if you found this useful also.
+
+## 📄 License
+
+Copyright © 2023 Tunde Adegoroye

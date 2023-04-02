@@ -92,3 +92,5 @@ I also have a [Kofi](https://ko-fi.com/tundsdev) where you can donate and buy me
 ## 📄 License
 
 Copyright © 2023 Tunde Adegoroye
+
+License: [MIT](LICENSE)

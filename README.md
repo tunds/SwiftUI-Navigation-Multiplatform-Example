@@ -4,6 +4,8 @@
 
 This repo a 100% SwiftUI app showcasing examples of navigation, Multiplatform support &amp; deep linking using the new NavigationStack &amp; NavigationSplitView API's based of my [course](https://youtube.com/playlist?list=PLvUWi5tdh92wWS3F-AVsCJHkhBlrkBp6f) that that showcases everything you need to know about handling navigation in SwiftUI apps.
 
+![Everything You Need To Know About Requesting App Reviews   Ratings In SwiftUI Copy 8](https://user-images.githubusercontent.com/13179531/229338407-351d1ba7-bf56-4fd7-a57d-db96fffcc34b.png)
+
 ## Requirements
 
 * Xcode 14.2+

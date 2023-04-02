@@ -78,6 +78,8 @@ This demo app was created me [tundsdev](https://www.youtube.com/channel/UC7AuV86
 
 ## Credits
 
+<a href='https://ko-fi.com/S6S83GEBY' target='_blank'><img height='50' style='border:0px;height:50px;' src='https://cdn.ko-fi.com/cdn/kofi4.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com'/></a>
+
 If you're interested in following me you can find me on:
 
 * [YouTube](https://www.youtube.com/channel/UC7AuV86ZjR3YaEdb5USNvWQ)

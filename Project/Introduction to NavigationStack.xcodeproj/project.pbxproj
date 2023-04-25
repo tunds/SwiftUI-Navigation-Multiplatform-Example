@@ -38,7 +38,6 @@
 		E784B5F4298D6E2700558357 /* MenuItemView.swift in Sources */ = {isa = PBXBuildFile; fileRef = E784B5F3298D6E2700558357 /* MenuItemView.swift */; };
 		E784B5F6298D6EC800558357 /* FoodDetailView.swift in Sources */ = {isa = PBXBuildFile; fileRef = E784B5F5298D6EC800558357 /* FoodDetailView.swift */; };
 		E7AB593D2997AA2A000852B6 /* InvalidProductView.swift in Sources */ = {isa = PBXBuildFile; fileRef = E7AB593C2997AA2A000852B6 /* InvalidProductView.swift */; };
-		E7C330FA299D12D400CB6BA7 /* GoogleService-Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = E7C330F9299D12D400CB6BA7 /* GoogleService-Info.plist */; };
 		E7C330FD299D15DF00CB6BA7 /* FirebaseMessaging in Frameworks */ = {isa = PBXBuildFile; productRef = E7C330FC299D15DF00CB6BA7 /* FirebaseMessaging */; };
 		E7D69BBA29958DF000F73871 /* PromoView.swift in Sources */ = {isa = PBXBuildFile; fileRef = E7D69BB929958DF000F73871 /* PromoView.swift */; };
 		E7E3024029B4AA050012089D /* MenuCategory.swift in Sources */ = {isa = PBXBuildFile; fileRef = E7E3023F29B4AA050012089D /* MenuCategory.swift */; };
@@ -93,7 +92,6 @@
 		E784B5F3298D6E2700558357 /* MenuItemView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MenuItemView.swift; sourceTree = "<group>"; };
 		E784B5F5298D6EC800558357 /* FoodDetailView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FoodDetailView.swift; sourceTree = "<group>"; };
 		E7AB593C2997AA2A000852B6 /* InvalidProductView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = InvalidProductView.swift; sourceTree = "<group>"; };
-		E7C330F9299D12D400CB6BA7 /* GoogleService-Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "GoogleService-Info.plist"; sourceTree = "<group>"; };
 		E7C330FE299E30E400CB6BA7 /* Introduction to NavigationStack.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = "Introduction to NavigationStack.entitlements"; sourceTree = "<group>"; };
 		E7D69BB929958DF000F73871 /* PromoView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PromoView.swift; sourceTree = "<group>"; };
 		E7E3023F29B4AA050012089D /* MenuCategory.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MenuCategory.swift; sourceTree = "<group>"; };
@@ -310,7 +308,6 @@
 				E7E3024429B4B4020012089D /* Extensions */,
 				E7E3023D29B4A9470012089D /* Sidebar */,
 				E7C330FE299E30E400CB6BA7 /* Introduction to NavigationStack.entitlements */,
-				E7C330F9299D12D400CB6BA7 /* GoogleService-Info.plist */,
 				E734AA6F29959FEF000B8085 /* RouteFinder.swift */,
 				E76C4E3629B685C400445799 /* Settings */,
 				E7D69BB729958DD000F73871 /* Promo */,
@@ -514,7 +511,6 @@
 			files = (
 				E75159AD298D680A00CDEC3E /* Preview Assets.xcassets in Resources */,
 				E75159AA298D680A00CDEC3E /* Assets.xcassets in Resources */,
-				E7C330FA299D12D400CB6BA7 /* GoogleService-Info.plist in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
